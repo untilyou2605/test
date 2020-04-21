@@ -1,0 +1,25 @@
+
+table {
+  width: 100%;
+  padding-top: 8%;
+}
+th {
+    text-align: left;
+}
+#td1{
+    padding-right: 4%;
+}
+#th1{
+    width: 65%;
+}
+td{
+    text-align: left;
+}
+.page_hyperlink{
+   background-color: white;
+    color: black;
+    border: 1px solid #4caf50;
+    padding: 1px 5px;
+    text-align: center;
+    text-decoration: none;
+}

@@ -1,0 +1,22 @@
+.input-takeQ{
+        width: 75px;
+}
+.but-takeQ{
+   float: right;
+}
+.time-takeQ{
+    margin-bottom: 6%;
+    margin-left: 42%;
+}
+.div-score{
+    padding-bottom: 5%;
+}
+.display{
+    display: none;
+}
+.div-but1{
+    width: 50%;
+}
+.form-class{
+    display: inline-block;
+}

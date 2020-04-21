@@ -1,0 +1,14 @@
+td{
+    vertical-align: top;
+}
+#contentMakeQuiz{
+    height: 100%;
+}
+#content{
+ height: 120px;
+ width: 445px;
+}
+.text-op{
+    height: 50px;
+    width: 445px;
+}
